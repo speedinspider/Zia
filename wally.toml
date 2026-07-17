@@ -1,0 +1,9 @@
+[package]
+name = "speedinspider/zia"
+description = "A Roblox Library that searches hierarchies using strings"
+license = "MIT"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
